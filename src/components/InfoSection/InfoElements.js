@@ -50,8 +50,8 @@ export const TextWrapper = styled.div`
   padding-bottom: 60px;
 `;
 export const TopLine = styled.p`
-  color: #b90007;
-  font-size: 16px;
+  color: #ff0009;
+  font-size: 18px;
   line-height: 16px;
   font-weight: 700px;
   letter-spacing: 1.4px;
