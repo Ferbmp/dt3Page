@@ -25,9 +25,9 @@ export const HeroBg = styled.div`
 export const ImgBg = styled.img`
   width: 100%;
   height: 100%;
-  -o-object-fit: cover;
-  object-fit: cover;
-  background: #232a34;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 `;
 
 export const HeroContent = styled.div`
