@@ -1,0 +1,34 @@
+export const SliderData = [
+  {
+    image:
+      'https://www.dt3sports.com.br/wp-content/uploads/2018/10/Rhino-red2.jpg',
+  },
+  {
+    image:
+      'https://www.dt3sports.com.br/wp-content/uploads/2018/10/Rhino-3-11.jpg',
+  },
+  {
+    image:
+      'https://www.dt3sports.com.br/wp-content/uploads/2018/10/Rhino-red1.jpg',
+  },
+  {
+    image:
+      'https://www.dt3sports.com.br/wp-content/uploads/2018/10/Rhino-red5.jpg',
+  },
+  {
+    image:
+      'https://www.dt3sports.com.br/wp-content/uploads/2018/10/Rhino-12-11.jpg',
+  },
+  {
+    image:
+      'https://www.dt3sports.com.br/wp-content/uploads/2018/10/Rhino-red9.jpg',
+  },
+  {
+    image:
+      'https://www.dt3sports.com.br/wp-content/uploads/2018/10/Rhino-13-11.jpg',
+  },
+  {
+    image:
+      'https://www.dt3sports.com.br/wp-content/uploads/2018/10/Rhino-15-11.jpg',
+  },
+];
