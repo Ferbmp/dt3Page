@@ -75,7 +75,7 @@ function Footer() {
           <div className="social-icons">
             <Link
               className="social-icon-link"
-              to="//www.instagram.com/dt3sports/"
+              to="//www.facebook.com/dt3sports/"
               target="_blank"
               aria-label="Facebook"
             >
@@ -83,7 +83,7 @@ function Footer() {
             </Link>
             <Link
               className="social-icon-link"
-              to="///www.facebook.com/dt3sports/"
+              to="///www.instagram.com/dt3sports/"
               target="_blank"
               aria-label="Instagram"
             >
