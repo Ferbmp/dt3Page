@@ -12,7 +12,7 @@ import {
 
 function Footer() {
   return (
-    <div className="footer-container">
+    <div className="footer-container" id="footer">
       <div className="footer-links">
         <div className="footer-link-wrapper">
           <div className="footer-link-items">
